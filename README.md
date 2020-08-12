@@ -18,13 +18,13 @@
 
     La nota de actividades formativas **AF** toma en consideración la participación del estudiante como meta.
     Consta de:
-    - Seis instancias de actividades formativas, donde el trabajo del estudiante será revisado superficialmente y recibirá un puntaje de cumplimiento acorde:
+    - Cinco instancias de actividades formativas, donde el trabajo del estudiante será revisado superficialmente y recibirá un puntaje de cumplimiento acorde:
     0 (no logrado), 0.5 (medianamente logrado) y 1 (logrado).
     - Doce controles de auto-evaluación, donde cada control será corregido automáticamente en la plataforma Canvas, y se le asignará un nivel de cumplimiento entre: no logrado (0) y logrado (0.1), según el porcentaje de logro.
 
-    Se considerará la suma de cumplimientos (**A**) de las seis actividades y la suma de cumplimineto (**B**) de los doce controles, donde el cálculo de **AF** es:
+    Se considerará la suma de cumplimientos (**A**) de las cinco actividades y la suma de cumplimineto (**B**) de los doce controles, donde el cálculo de **AF** es:
 
-    **AF = 6 x (min(*A*; 4) + min(*B*; 1)) / 5 + 1**, donde **A** es la suma de cumplimientos en actividades formativas y **B** es la suma de cumplimiento de los controles de auto-evaluación.
+    **AF = 6 x (min(*A*; 3) + min(*B*; 1)) / 5 + 1**, donde **A** es la suma de cumplimientos en actividades formativas y **B** es la suma de cumplimiento de los controles de auto-evaluación.
 
 2. Adicionalmente, para aprobar el curso el alumno debe cumplir con:
 
