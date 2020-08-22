@@ -28,17 +28,28 @@
 
 2. Adicionalmente, para aprobar el curso el alumno debe cumplir con:
 
-    - **NC** debe ser mayor o igual a 3.950
-    - **AC** debe ser mayor o igual a 3.950
-    - **T** debe ser mayor o igual a 3.950
+    - **NC** debe ser mayor o igual a 3,950
+    - **AC** debe ser mayor o igual a 3,950
+    - **T** debe ser mayor o igual a 3,950
 
-3. Si el alumno cumple con las condiciones anteriores, entonces **NF = NC**. En caso contrario, **NF = min(3,9; NC)**
+3. Este semestre el curso participará de la Encuesta de Carga Académica (ECA), con el objetivo de medir la carga que conlleva el curso y adaptarlo en esta y futuras versiones del curso. 
 
-4. La inasistencia a alguna de las evaluaciones (actividad sumativa) se evalúa con nota 1.0.
+    Para incentivar que a que los estudiantes la respondan, se entregará una bonificación que tendrá efecto en el promedio final del curso, siempre que se cumplan los criterios de aprobación nombrados en el punto anterior.
 
-5. Solo será aproximada la nota final NF. El resto de las notas serán usadas con dos decimales.
+    Dependiendo de la cantidad de alumnos que responda la ECA cada semana se podrá ganar: 
+    - **0,2 décimas:** si el alumno responde la ECA y más del 80% del curso responde la encuesta esa semana.
+    - **0,1 décimas:** si el alumno la ECA y menos del 80% del curso responde la encuesta esa semana.
+    - **0 décimas:** en cualquier otro caso.
 
-6. Las notas de todas las evaluaciónes se publicarán en [esta planilla](#). Solo se puede acceder con cuenta UC, no se dará acceso a ninguna otra cuenta.
+    En total se realizarán 16 encuestas, por lo que pueden si un estudiante responde todas las ECAs tendrá una bonificación de 1,6 décimas en su promedio final (si cumple los criterios de aprobación).
+
+4. Si el alumno cumple con las condiciones nombradas en el punto 2, entonces **NF = NC + Decimas ECA**. En caso contrario, **NF = min(3,9; NC)**
+
+5. La inasistencia a alguna de las evaluaciones (actividad sumativa) se evalúa con nota 1.0.
+
+6. Solo será aproximada la nota final NF. El resto de las notas serán usadas con dos decimales.
+
+7. Las notas de todas las evaluaciónes se publicarán en [esta planilla](#). Solo se puede acceder con cuenta UC, no se dará acceso a ninguna otra cuenta.
 
 ## Recorrección
 
