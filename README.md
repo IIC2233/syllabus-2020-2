@@ -24,7 +24,7 @@
 
     Se considerará la suma de cumplimientos (**A**) de las cinco actividades y la suma de cumplimineto (**B**) de los doce controles, donde el cálculo de **AF** es:
 
-    **AF = 6 x (min(*A*; 3) + min(*B*; 1)) / 5 + 1**, donde **A** es la suma de cumplimientos en actividades formativas y **B** es la suma de cumplimiento de los controles de auto-evaluación.
+    **AF = 6 x (min(*A*; 3) + min(*B*; 1)) / 4 + 1**, donde **A** es la suma de cumplimientos en actividades formativas y **B** es la suma de cumplimiento de los controles de auto-evaluación.
 
 2. Adicionalmente, para aprobar el curso el alumno debe cumplir con:
 
