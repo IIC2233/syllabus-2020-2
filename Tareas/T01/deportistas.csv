@@ -1,53 +1,53 @@
-nombre                      ,flexibilidad ,moral ,precio ,velocidad ,lesionado ,resistencia
-Gunnar Nielsen Aaby         ,66           ,2     ,100    ,36        ,False     ,92
-Christine Jacoba Aaftink    ,42           ,21    ,58     ,62        ,False     ,22
-Per Knut Aaland             ,86           ,25    ,86     ,82        ,False     ,49
-John Aalberg                ,90           ,62    ,90     ,17        ,False     ,49
-Jorma Ilmari Aalto          ,84           ,78    ,84     ,80        ,True      ,20
-Jyri Tapani Aalto           ,50           ,77    ,81     ,7         ,False     ,83
-Ami Kondo                   ,6            ,20    ,67     ,98        ,False     ,58
-Mathias Ntawulikura         ,41           ,13    ,80     ,51        ,False     ,82
-Hilary Skaryski             ,89           ,37    ,83     ,87        ,False     ,86
-Martina Vondrov             ,95           ,18    ,95     ,11        ,True      ,85
-Hugo Vonlanthen             ,53           ,13    ,94     ,26        ,True      ,41
-Mikhail Yakovlevich Voronin ,23           ,93    ,81     ,61        ,False     ,43
-Marianne Vos                ,8            ,3     ,80     ,62        ,True      ,78
-Srdar Hsnov                 ,27           ,15    ,66     ,88        ,False     ,52
-Hsu Yue-Yun                 ,74           ,64    ,61     ,38        ,False     ,81
-Oksana Htmxanova            ,28           ,63    ,91     ,98        ,False     ,93
-Urka Hrovat                 ,92           ,30    ,63     ,58        ,True      ,67
-Fernando Filipponi          ,13           ,61    ,96     ,13        ,True      ,82
-Alessia Filippi             ,22           ,64    ,60     ,30        ,False     ,89
-Tomas Gonzalez              ,58           ,64    ,75     ,33        ,False     ,68
-Nicolas Massu               ,96           ,60    ,100    ,61        ,False     ,79
-Usain Bolt                  ,26           ,92    ,63     ,31        ,False     ,46
-Larisa Latynina             ,56           ,27    ,86     ,4         ,False     ,74
-Michael Phelps              ,19           ,75    ,66     ,48        ,False     ,49
-Whitney Jordan Ashley       ,2            ,21    ,75     ,10        ,True      ,56
-Jessica Ashwood             ,41           ,99    ,79     ,29        ,False     ,78
-Carlos Caldern              ,96           ,90    ,74     ,70        ,False     ,82
-Ionela Loaie                ,74           ,98    ,67     ,1         ,False     ,82
-Arne Nielsson               ,75           ,60    ,90     ,13        ,False     ,13
-Daniel Repacholi            ,80           ,48    ,61     ,95        ,False     ,99
-Sami Matti Repo             ,44           ,50    ,65     ,67        ,False     ,30
-Edgar Lindenau Aabye        ,15           ,84    ,57     ,11        ,False     ,63
-Pablo Restrepo              ,58           ,66    ,58     ,51        ,False     ,24
-Yvonne Stoffel-Wagener      ,15           ,8     ,60     ,29        ,True      ,31
-Deyan Yordanov              ,25           ,6     ,64     ,42        ,True      ,0
-Giorgio Di Centa            ,20           ,95    ,58     ,42        ,False     ,15
-Min Dezillie                ,37           ,42    ,64     ,79        ,False     ,32
-Laishram Bombayla Devi      ,54           ,99    ,66     ,8         ,False     ,26
-Elise Christie              ,16           ,67    ,64     ,13        ,False     ,65
-Conrad Marentius Carlsrud   ,55           ,10    ,58     ,21        ,True      ,93
-Derek Burnett               ,72           ,2     ,54     ,75        ,False     ,92
-Mireia Belmonte Garca       ,55           ,0     ,67     ,78        ,False     ,95
-Stefania Belmondo           ,9            ,69    ,79     ,67        ,False     ,76
-Jnos Panyik                 ,6            ,85    ,72     ,6         ,False     ,74
-Kauko Johannes Salomaa      ,47           ,43    ,93     ,64        ,False     ,31
-Diana Teixeira              ,16           ,19    ,57     ,67        ,False     ,45
-Teng Haibin                 ,74           ,69    ,51     ,97        ,True      ,78
-Martin Tenk                 ,91           ,40    ,68     ,70        ,False     ,72
-Wei Min Teo                 ,2            ,5     ,53     ,84        ,False     ,36
-Hans van Helden             ,78           ,11    ,84     ,6         ,False     ,68
-Desai Williams              ,10           ,18    ,68     ,69        ,False     ,24
-Emma Louise Williams        ,77           ,1    ,75     ,46        ,True      ,12
+nombre,flexibilidad,moral,precio,velocidad,lesionado,resistencia
+Gunnar Nielsen Aaby,66,2,100,36,False,92
+Christine Jacoba Aaftink,42,21,58,62,False,22
+Per Knut Aaland,86,25,86,82,False,49
+John Aalberg,90,62,90,17,False,49
+Jorma Ilmari Aalto,84,78,84,80,True,20
+Jyri Tapani Aalto,50,77,81,7,False,83
+Ami Kondo,6,20,67,98,False,58
+Mathias Ntawulikura,41,13,80,51,False,82
+Hilary Skaryski,89,37,83,87,False,86
+Martina Vondrov,95,18,95,11,True,85
+Hugo Vonlanthen,53,13,94,26,True,41
+Mikhail Yakovlevich Voronin,23,93,81,61,False,43
+Marianne Vos,8,3,80,62,True,78
+Srdar Hsnov,27,15,66,88,False,52
+Hsu Yue-Yun,74,64,61,38,False,81
+Oksana Htmxanova,28,63,91,98,False,93
+Urka Hrovat,92,30,63,58,True,67
+Fernando Filipponi,13,61,96,13,True,82
+Alessia Filippi,22,64,60,30,False,89
+Tomas Gonzalez,58,64,75,33,False,68
+Nicolas Massu,96,60,100,61,False,79
+Usain Bolt,26,92,63,31,False,46
+Larisa Latynina,56,27,86,4,False,74
+Michael Phelps,19,75,66,48,False,49
+Whitney Jordan Ashley,2,21,75,10,True,56
+Jessica Ashwood,41,99,79,29,False,78
+Carlos Caldern,96,90,74,70,False,82
+Ionela Loaie,74,98,67,1,False,82
+Arne Nielsson,75,60,90,13,False,13
+Daniel Repacholi,80,48,61,95,False,99
+Sami Matti Repo,44,50,65,67,False,30
+Edgar Lindenau Aabye,15,84,57,11,False,63
+Pablo Restrepo,58,66,58,51,False,24
+Yvonne Stoffel-Wagener,15,8,60,29,True,31
+Deyan Yordanov,25,6,64,42,True,0
+Giorgio Di Centa,20,95,58,42,False,15
+Min Dezillie,37,42,64,79,False,32
+Laishram Bombayla Devi,54,99,66,8,False,26
+Elise Christie,16,67,64,13,False,65
+Conrad Marentius Carlsrud,55,10,58,21,True,93
+Derek Burnett,72,2,54,75,False,92
+Mireia Belmonte Garca,55,0,67,78,False,95
+Stefania Belmondo,9,69,79,67,False,76
+Jnos Panyik,6,85,72,6,False,74
+Kauko Johannes Salomaa,47,43,93,64,False,31
+Diana Teixeira,16,19,57,67,False,45
+Teng Haibin,74,69,51,97,True,78
+Martin Tenk,91,40,68,70,False,72
+Wei Min Teo,2,5,53,84,False,36
+Hans van Helden,78,11,84,6,False,68
+Desai Williams,10,18,68,69,False,24
+Emma Louise Williams,77,1,75,46,True,12
