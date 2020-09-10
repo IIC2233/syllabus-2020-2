@@ -1,0 +1,31 @@
+Antonio Jara Rozas;20K63305;2013;Ingeniería;5.9
+Lucas Valenzuela;20616744;2012;College;1
+Jadrina De Andrade;2061225J;2018;Ingeniería;5.6
+Cristóbal Zilleruelo;196K1545;2012;College;1,7
+Matías Duhalde;206367K5;2013;Ingeniería;6.3
+Benjamín Vásquez;2K061718;2016;College;6,7
+Trinidad Balart;2063178K;2018;Ingeniería;6
+José Ignacio Retamal;1061661J;2014;Ingeniería;7
+aaossa;1000;10010;Profesor;0
+Belen Osse;20615203;2013;College;6.4
+Magdalena Araya;17615273;2018;Ingeniería;1
+Macarena Muñoz;20632433;2015;Ingeniería;2
+Ignacio Urrutia;20J61387;2013;Ingeniería;1,2
+José Ignacio Torralba;1K963468;2014;College;5
+Josefina Reyes;2K061719;2014;Ingeniería;5
+cote;2000;20020;Profesor;0
+José Tomas Urquiza;20K61768;2017;College;1.7
+Eduardo Illanes;156K1185;2011;College;2,7
+Javiera Fuentes;206370K7;2019;College;2,1
+Juan Jiménez;2063J338;2017;Ingeniería;1.9
+Fernando Balladares;206363K6;2016;College;5
+Francisca Canales;1161K340;2018;College;6.6
+Diego Chahuan;20634244;2013;Ingeniería;3
+Gonzalo Concha;19631962;2018;Ingeniería;6.9
+cruz;3000;30030;Profesor;0
+Sebastián Díaz;14632410;2018;College;4
+Pablo Kipreos;1K463165;2016;Ingeniería;1
+Christian Klempau;2K061285;2016;College;1,9
+Maria Pia Valenzuela;1K063249;2018;Ingeniería;4.9
+Ignacio Porte;16612852;2017;Ingeniería;4
+jtagle;4000;40040;Profesor;0
