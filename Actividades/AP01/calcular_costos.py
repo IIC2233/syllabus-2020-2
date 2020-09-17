@@ -7,10 +7,12 @@ def modificador_costo(cantidad_pedidos):
     func = (1 / (2 + exp(2 * cantidad_pedidos) * (-1 + 1 / 0.9))) + 0.525
     return func
 
+
 def costo(costo_inicial):
     # En esta función debes implementar yield
     # Debe retornar un generador
     pass
+
 
 def calcular_costo_envio(comidas, costo_base_envio):
     # Debes ocupar el método next para calcular el costo de envio del cliente 
