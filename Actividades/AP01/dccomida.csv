@@ -1,0 +1,25 @@
+id,nombre,precio,dieciochera
+0,DCCopete,4103,True
+1,DCCazuela,6919,True
+2,DCCuranto,1287,False
+3,DCChoripan,5530,True
+4,DCChela,1126,True
+5,DCCola de mono,5201,False
+6,DCChancho en piedra,2599,False
+7,DCChapalele,6213,False
+8,DCChurrasca,2794,False
+9,DCCharquican,6255,False
+10,DCChicha,3055,True
+11,DCChimichurri,3859,False
+12,DCChilenitos,3194,True
+13,DCChorrillana,3866,True
+14,DCCostillar,5040,True
+15,DCCaldillo de Congrio,3251,False
+16,DCCuchufli,3951,False
+17,DCChacarero,2244,False
+18,DCChurrasco,1915,False
+19,DCCompleto,4346,False
+20,DCCharqui,6654,False
+21,DCChumbeque,2269,False
+22,DCCochayuyo,4298,False
+23,DCChaparrita,4534,False
