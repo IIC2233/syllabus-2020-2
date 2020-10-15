@@ -114,6 +114,7 @@ class VentanaTareaCodigo(QWidget):
 
     def recibir_comparacion(self, son_iguales):
         # Completar
+        pass
 
     def tarea_terminada(self):
         """Este método muestra el mensaje de término de la tarea y regresa al menú principal.
