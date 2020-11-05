@@ -1,0 +1,20 @@
+1,Aeropuerto Internacional Arturo Merino Benitez
+2,Aeroparque Jorge Newbery
+3,Aeropuerto de Sao Paulo Guarulhos (GRU)
+4,Aeropuerto Internacional de Galeao
+5,Aeropuerto Internacional Jorge Chavez
+6,Aeropuerto Internacional Jorge Wilstermann
+7,Aeropuerto Internacional Silvio Pettirossi
+8,Aeropuerto Internacional de Miami
+9,Aeropuerto Internacional John F. Kennedy
+10,Aeropuerto de Madrid-Barajas Adolfo Suarez
+11,Aeropuerto de Paris-Charles de Gaulle
+12,Aeropuerto de Londres-Heathrow
+13,Aeropuerto de Roma-Fiumicino
+14,Aeropuerto Internacional de la Ciudad de Mexico
+15,Aeropuerto Internacional de Moscu-Vnukovo
+16,Aeropuerto Internacional de Pekin
+17,Aeropuerto Internacional de Narita
+18,Aeropuerto Internacional O.R. Tambo
+19,Aeropuerto Internacional de El Cairo
+20,Aeropuerto Internacional Moshoeshoe
