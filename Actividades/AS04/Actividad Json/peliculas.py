@@ -37,7 +37,7 @@ def desencriptar(string):
     return string_desencriptado
 
 
-def cargar_peliculas(path):
+def cargar_peliculas(ruta):
 
     ### COMPLETAR ###
     pass

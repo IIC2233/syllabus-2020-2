@@ -19,7 +19,7 @@ def cargar_instancia(ruta):
 
 
 class Usuario:
-    def __init__(self,nombre,peliculas,indices,password) -> None:
+    def __init__(self, nombre, peliculas, indices, password):
         # agregarle los atributos
         self.nombre = nombre
         self.peliculas = peliculas
@@ -34,12 +34,12 @@ class Usuario:
         # Completar
         pass
 
-    def __setstate__(self,state):
+    def __setstate__(self, state):
         # Completar
         pass
 
 
-def guardar_instancia(ruta,data):
+def guardar_instancia(ruta, data):
 
     # Completar
     pass
