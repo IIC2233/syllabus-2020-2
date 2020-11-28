@@ -60,10 +60,9 @@ class  GeneradorGrillaHexagonal:
         y = fila * self.alto_fila
 
         for angulo in range(0, 360, 60):
-            x += (math.cos(math.radians(angulo)) * self.tamaño_arista)
+            x += math.cos(math.radians(angulo)) * self.tamaño_arista
             y += math.sin(math.radians(angulo)) * self.tamaño_arista
-
-            yield (round(x) + padding_x, round(y) + padding_y)
+            yield (round(round(x,2)) + padding_x, round(round(y,2)) + padding_y)
     
     def generar_grilla(self, dimensiones, padding_x, padding_y):
         '''
