@@ -193,7 +193,6 @@ if __name__ == "__main__":
             ('Etymology', 2520, 3855),
             ('Further reading', 78870, 78871),
             ('See also', 78714, 78792),
-            ('Etymology', 2520, 3855),
             ('External links', 78893, 79342)
         ]
     ]
