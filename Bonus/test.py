@@ -190,7 +190,10 @@ if __name__ == "__main__":
 
     output_esperado_4 = [
         [
-            ('Etymology', 2520, 3855)
+            ('Etymology', 2520, 3855),
+            ('Further reading', 78870, 78871),
+            ('See also', 78714, 78792),
+            ('External links', 78893, 79342)
         ]
     ]
 
