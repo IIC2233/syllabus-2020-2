@@ -126,14 +126,14 @@ if __name__ == "__main__":
 
     output_esperado_1 = [
         [
-            ('External links', 78875, 78889),
-            ('Further reading', 78851, 78866),
-            ('References', 78796, 78806),
-            ('See also', 78702, 78710),
-            ('Culture', 69439, 69446),
-            ('Infrastructure', 67426, 67440),
-            ('Economy', 57809, 57816),
-            ('Demographics', 45267, 45279),
+            ('External links', 78995, 79009),
+            ('Further reading', 78971, 78986),
+            ('References', 78916, 78926),
+            ('See also', 78822, 78830),
+            ('Culture', 69559, 69566),
+            ('Infrastructure', 67546, 67560),
+            ('Economy', 57929, 57936),
+            ('Demographics', 45387, 45399),
             ('Geography', 33695, 33704),
             ('Government and politics', 21732, 21755),
             ('History', 3859, 3866),
@@ -143,27 +143,27 @@ if __name__ == "__main__":
 
     output_esperado_2 = [
         [
-            ('Citations', 78832, 78841),
-            ('Notes', 78816, 78821),
-            ('Cultural heritage', 77603, 77620),
-            ('Sports', 74389, 74395),
-            ('Cinema', 73897, 73903),
-            ('Folklore', 73230, 73238),
-            ('Cuisine', 72501, 72508),
-            ('Literature', 71500, 71510),
-            ('Music and dance', 70278, 70293),
-            ('Telecommunications', 68659, 68677),
-            ('Transport', 67450, 67459),
-            ('Tourism', 64356, 64363),
-            ('Agriculture', 63209, 63220),
-            ('Mineral resources', 62715, 62732),
-            ('Health', 56915, 56921),
-            ('Education', 55358, 55367),
-            ('Languages', 53871, 53880),
-            ('Religion', 51074, 51082),
-            ('Ancestry and ethnicity', 45801, 45823),
-            ('Hydrography', 44238, 44249),
-            ('Topography', 39657, 39667),
+            ('Citations', 78952, 78961),
+            ('Notes', 78936, 78941),
+            ('Cultural heritage', 77723, 77740),
+            ('Sports', 74509, 74515),
+            ('Cinema', 74017, 74023),
+            ('Folklore', 73350, 73358),
+            ('Cuisine', 72621, 72628),
+            ('Literature', 71620, 71630),
+            ('Music and dance', 70398, 70413),
+            ('Telecommunications', 68779, 68797),
+            ('Transport', 67570, 67579),
+            ('Tourism', 64476, 64483),
+            ('Agriculture', 63329, 63340),
+            ('Mineral resources', 62835, 62852),
+            ('Health', 57035, 57041),
+            ('Education', 55478, 55487),
+            ('Languages', 53991, 54000),
+            ('Religion', 51194, 51202),
+            ('Ancestry and ethnicity', 45921, 45943),
+            ('Hydrography', 44358, 44369),
+            ('Topography', 39777, 39787),
             ('Biodiversity', 36517, 36529),
             ('Climate', 35970, 35977),
             ('Military', 31458, 31466),
@@ -184,16 +184,16 @@ if __name__ == "__main__":
         [
             ('Pinochet era (1973–1990)', 16830, 16854),
             ('Flora and fauna', 37068, 37083),
-            ('Mythology', 73727, 73736)
+            ('Mythology', 73847, 73856)
         ]
     ]
 
     output_esperado_4 = [
         [
             ('Etymology', 2520, 3855),
-            ('Further reading', 78870, 78871),
-            ('See also', 78714, 78792),
-            ('External links', 78893, 79342)
+            ('See also', 78834, 78912),
+            ('Further reading', 78990, 78991),
+            ('External links', 79013, 79462)
         ]
     ]
 
@@ -209,38 +209,38 @@ if __name__ == "__main__":
             ('Largest cities', 30441, 30442),
             ('National symbols', 30468, 31453),
             ('Climate', 35982, 36512),
-            ('Biodiversity', 36534, 39652),
-            ('Topography', 39672, 44233),
-            ('Ancestry and ethnicity', 45828, 51069),
-            ('Religion', 51087, 53866),
-            ('Languages', 53885, 55353),
-            ('Education', 55372, 56910),
-            ('Mineral resources', 62737, 63204),
-            ('Agriculture', 63225, 64351),
-            ('Transport', 67464, 68654),
-            ('Music and dance', 70298, 71495),
-            ('Literature', 71515, 72496),
-            ('Cuisine', 72513, 73225),
-            ('Folklore', 73243, 73892),
-            ('Cinema', 73908, 74384),
-            ('Sports', 74400, 77598),
-            ('Notes', 78826, 78827),
+            ('Biodiversity', 36534, 39772),
+            ('Topography', 39792, 44353),
+            ('Ancestry and ethnicity', 45948, 51189),
+            ('Religion', 51207, 53986),
+            ('Languages', 54005, 55473),
+            ('Education', 55492, 57030),
+            ('Mineral resources', 62857, 63324),
+            ('Agriculture', 63345, 64471),
+            ('Transport', 67584, 68774),
+            ('Music and dance', 70418, 71615),
+            ('Literature', 71635, 72616),
+            ('Cuisine', 72633, 73345),
+            ('Folklore', 73363, 74012),
+            ('Cinema', 74028, 74504),
+            ('Sports', 74520, 77718),
+            ('Notes', 78946, 78947),
             ('21st century', 19348, 21728),
             ('Military', 31471, 33691),
-            ('Hydrography', 44254, 45263),
-            ('Health', 56926, 57805),
-            ('Tourism', 64368, 67422),
-            ('Telecommunications', 68682, 69435),
-            ('Cultural heritage', 77625, 78698),
-            ('Citations', 78846, 78847)
+            ('Hydrography', 44374, 45383),
+            ('Health', 57046, 57925),
+            ('Tourism', 64488, 67542),
+            ('Telecommunications', 68802, 69555),
+            ('Cultural heritage', 77745, 78818),
+            ('Citations', 78966, 78967),
         ]
     ]
 
     output_esperado_6 = [
         [
             ('20th century', 11346, 19326),
-            ('Biodiversity', 36534, 39652),
-            ('Folklore', 73243, 73892)
+            ('Biodiversity', 36534, 39772),
+            ('Folklore', 73363, 74012)
         ]
     ]
 
